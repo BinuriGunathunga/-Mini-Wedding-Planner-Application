@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EventService\\EventService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GuestService\\GuestService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TaskService\\TaskService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ApiGateway\\ApiGateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
